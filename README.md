@@ -9,3 +9,4 @@ Build it with `bitbake fishbowl-image`
 The maker image does not contain the iPython module for web access, but it does include all the userspace Python drivers and the SPI kernel module. If you don't need the web access to the Minnowboard, you can use this image.
 
 Build it with `bitbake maker-image`
+For fun!
